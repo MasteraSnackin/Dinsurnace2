@@ -196,12 +196,27 @@ ParamtricInsurancABI.json: Holds the ABI for the smart contract, enabling the fr
 ## License
 
 This project is licensed under the MIT License.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Acknowledgments 
 https://github.com/MasteraSnackin/weather-surety-solutions
 
 https://github.com/flare-foundation/JsonJqVerifierServer
-
+https://github.com/flare-foundation/flare-hardhat-starter/blob/encode-hackathon/scripts/jsonApiExample.ts
 https://github.com/flare-foundation/flare-hardhat-starter/blob/encode-hackathon/contracts/web2WeatherInteractor.sol
+https://flare-network.notion.site/Flare-Hackathon-Guide-Encode-London-3484db409c644f3289d29a9a3b73c7e5
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Examples
+
+GitHub - Harshhhh18/Internship-Projects: This project involves the development of a Parametric Insurance solution aimed at providing financial protection against weather-related risks, such as excess rainfall and drought. The project was done during my internship at WRMS, Gurgaon, where I gained hands-on experience in setting triggers, exits, and managing insurance pay-outs for farmers
+
+GitHub - klimalez/climate-insurance: Climate Insurance Design and Performance Analysis
+
+GitHub - Harshhhh18/Internship-Projects: This project involves the development of a Parametric Insurance solution aimed at providing financial protection against weather-related risks, such as excess rainfall and drought. The project was done during my internship at WRMS, Gurgaon, where I gained hands-on experience in setting triggers, exits, and managing insurance pay-outs for farmers
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
