@@ -177,3 +177,11 @@ DInsuranceversion4/
 
 This project is licensed under the MIT License.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Acknowledgments 
+https://github.com/MasteraSnackin/weather-surety-solutions
+
+https://github.com/flare-foundation/JsonJqVerifierServer
+
+https://github.com/flare-foundation/flare-hardhat-starter/blob/encode-hackathon/contracts/web2WeatherInteractor.sol
+
