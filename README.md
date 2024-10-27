@@ -5,8 +5,12 @@ This project is a decentralized application (dApp) for parametric insurance usin
 Demo of Working FrontEnd 
 https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IMAGE A(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
+IMAGE A([https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)](https://1drv.ms/i/s!At64SwKetw4ipacBzr_anU1P3d7gng?e=LFUZO0)
 IMAGE B(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
+IMAGE C(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
+IMAGE D(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
+IMAGE E(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
+IMAGE F(https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
 
 
 Video https://youtu.be/c2s0h9VR4OQ this will be updated soon 
