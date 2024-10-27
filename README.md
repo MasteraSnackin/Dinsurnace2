@@ -30,27 +30,29 @@ https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
    ```
    PRIVATE_KEY=your_private_key_here
    FLARE_RPC_URL=https://flare-api.flare.network/ext/C/rpc
-   ETHERSCAN_API_KEY=your_etherscan_api_key_here
+   ETHERSCAN_API_KEY=your_etherscan_api_key_here 
    OPEN_WEATHER_API_KEY=your_openweather_api_key_here
    ```
+   No Longer need ETHERSCAN_API_KEY
+   
    # This sets up environment variables for secure and configurable deployment
 
-4. Compile the contract:
+5. Compile the contract:
    ```
    npx hardhat compile
    ```
    # This compiles the Solidity smart contract
 
-5. Deploy the contract:
+6. Deploy the contract:
    ```
    npx hardhat run scripts/deployParametricInsurance.ts --network flare
    ```
    # This deploys the compiled contract to the Flare network
 
-6. Copy the deployed contract address and update it in `src/App.tsx`
+7. Copy the deployed contract address and update it in `src/App.tsx`
    # This step is crucial for the frontend to interact with the deployed contract
 
-7. Generate the ABI and place it in `src/ParametricInsuranceABI.json`
+8. Generate the ABI and place it in `src/ParametricInsuranceABI.json`
    # The ABI is necessary for the frontend to know how to interact with the contract
 
 ## Running the application
