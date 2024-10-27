@@ -8,14 +8,12 @@ https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 
 IMAGE 1[Complied Successfully](https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=Aqgn0d)
 IMAGE 2([BlockSeneseOracle)](https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=S64Akt)
-IMAGE 3 [Sucessful Output Contract Created](https://1drv.ms/i/s!At64SwKetw4ipacA2GwB4s7xq_y57A?e=sNVKHU)
-IMAGE C [Truffle Project](https://1drv.ms/i/s!At64SwKetw4ipacFWI3lGvF0ms1D9g?e=Va7a9d)
-IMAGE D https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=0jBMBB
-IMAGE E [https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=0jBMBB](https://1drv.ms/i/s!At64SwKetw4ipacCmsKurRSdLtmI6w?e=Eg6OeL)
-IMAGE F https://1drv.ms/i/s!At64SwKetw4ipacGmvGOVjoWov8UuQ?e=SQrGZG
-
+IMAGE 3 [Compiling Contracts](https://1drv.ms/i/s!At64SwKetw4ipacGVTRdMLR6CcuWGQ?e=bRhsX5) 
+IMAGE 4 [Sucessful Output Contract Created](https://1drv.ms/i/s!At64SwKetw4ipacA2GwB4s7xq_y57A?e=sNVKHU)
+IMAGE 5 [Truffle Project](https://1drv.ms/i/s!At64SwKetw4ipacFWI3lGvF0ms1D9g?e=Va7a9d)
 
 Front End Video
+https://1drv.ms/v/s!At64SwKetw4ipacZtmEYlemyizsd8A?e=n8Xrhy
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Prerequisites
@@ -89,7 +87,30 @@ Run tests with:
 Project Structure
 bash
 ```bash
-
+DInsuranceversion4/
+├── .env
+├── .gitignore
+├── artifacts/
+├── cache/
+├── contracts/
+│   ├── ParametricInsurance.sol
+│   ├── ParamtricInsurnce.sol
+├── hardhat.config.js
+├── node_modules/
+├── package.json
+├── README.md
+├── scripts/
+│   ├── deployParametricInsurance.ts
+│   ├── generateABI.js
+├── src/
+│   ├── App.tsx
+│   ├── config.ts
+│   ├── index.tsx
+│   ├── ParamtricInsurancABI.json/
+│   ├── types.d.ts
+├── test/
+│   ├── ParametricInsurance.test.ts
+├── tsconfig.json
 
 
 ```
