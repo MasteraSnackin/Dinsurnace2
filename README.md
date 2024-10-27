@@ -5,9 +5,11 @@ This project is a decentralized application (dApp) for parametric insurance usin
 Demo of Working FrontEnd 
 https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IMAGE A([hell word)](https://1drv.ms/i/s!At64SwKetw4ipacBzr_anU1P3d7gng?e=LFUZO0)
-IMAGE B https://1drv.ms/i/s!At64SwKetw4ipacAlY7gYcKrRNmZDA?e=g7WzSm
-IMAGE C https://1drv.ms/i/s!At64SwKetw4ipacFdzaPKQg1xVrbdQ?e=WdcObR
+
+[Complied Successfully](https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=Aqgn0d)
+([BlockSeneseOracle)](https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=S64Akt)
+[Sucessful Output Contract Created](https://1drv.ms/i/s!At64SwKetw4ipacA2GwB4s7xq_y57A?e=sNVKHU)
+IMAGE C [Truffle Project](https://1drv.ms/i/s!At64SwKetw4ipacFWI3lGvF0ms1D9g?e=Va7a9d)
 IMAGE D https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=0jBMBB
 IMAGE E [https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=0jBMBB](https://1drv.ms/i/s!At64SwKetw4ipacCmsKurRSdLtmI6w?e=Eg6OeL)
 IMAGE F https://1drv.ms/i/s!At64SwKetw4ipacGmvGOVjoWov8UuQ?e=SQrGZG
