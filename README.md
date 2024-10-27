@@ -38,6 +38,9 @@ Offers a blockchain-based parametric insurance platform to help farmers mitigate
 
 Our project is a decentralized application (dApp) designed to provide parametric insurance solutions on the Ethereum blockchain. It aims to mitigate the financial risks associated with adverse weather conditions, specifically for farmers, by leveraging blockchain technology and real-time data from oracles.
 
+Image 1[High level Diagram](https://1drv.ms/i/s!At64SwKetw4ipacbTjYXqru7xlmA2Q?e=go7xYP)
+Image 2[Flow Diagram](https://1drv.ms/i/s!At64SwKetw4ipacdpUfFh1G6LYpGfQ?e=bXAZSJ)
+
 Key Features:
 Automated Insurance Payouts: The dApp automatically triggers payouts based on predefined weather conditions, such as excess rainfall or drought, providing a seamless and efficient claims process.
 
