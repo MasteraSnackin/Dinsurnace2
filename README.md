@@ -63,7 +63,7 @@ Data Integration: The dApp requests weather data from the Blocksense oracle, whi
 
 Payout Trigger: If the weather data meets or exceeds the predefined conditions, the smart contract automatically triggers payouts to the policyholders, sending Ether directly to their wallets.
 
-By harnessing the power of blockchain and oracle technology, our parametric insurance dApp offers a revolutionary approach to managing agricultural risk, providing farmers with a reliable and efficient financial safety net.
+By harnessing the power of Flare, Blocksense and oracle technology, our parametric insurance dApp offers a revolutionary approach to managing agricultural risk, providing farmers with a reliable and efficient financial safety net.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -172,7 +172,6 @@ ParametricInsurance.sol and ParamtricInsurnce.sol: Solidity smart contracts that
 scripts/
 deployParametricInsurance.ts: Script to deploy the ParametricInsurance smart contract onto the blockchain.
 generateABI.js: Generates the Application Binary Interface (ABI) for the smart contract, defining its methods and events, making it easier to interact with from front-end or scripts.
-
 
 Src/
 ParamtricInsurancABI.json: Holds the ABI for the smart contract, enabling the front-end to interact with the deployed contract’s methods.
