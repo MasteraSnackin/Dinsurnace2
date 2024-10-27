@@ -4,7 +4,14 @@ This project is a decentralized application (dApp) for parametric insurance usin
 
 Demo of Working FrontEnd 
 https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IMAGE
+![Project Screenshot 1]([https://1drv.ms/i/s!At64SwKetw4ik8hUMRr0n8b1ApJEFw?e=Oy2DPm](https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=ayZJzq)
 
+![Project Screenshot 2]([https://1drv.ms/i/s!At64SwKetw4ik8hT2-Pf1-t4gfC-NA?e=R9hwGv](https://1drv.ms/i/s!At64SwKetw4ipacA2GwB4s7xq_y57A?e=Ft4FS9)
+
+Video https://youtu.be/c2s0h9VR4OQ this will be updated soon 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Prerequisites
 
 - Node.js (v14 or later)  # Required runtime environment
@@ -72,3 +79,23 @@ https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 ## Testing
 
 Run tests with:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project Structure
+bash
+```bash
+
+
+
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Contributors
+- [Umair Ismati](https://github.com/Rappid-exe)
+- [Anis Bentahar](https://github.com/anistayebM)
+- [Freya Wu](https://github.com/YanniWu88)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## License
+
+This project is licensed under the MIT License.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
