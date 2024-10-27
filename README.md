@@ -5,7 +5,6 @@ This project is a decentralized application (dApp) for parametric insurance usin
 Demo of Working FrontEnd 
 https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Parametric Insurance dApp aka 
 
 This project is a decentralized application (dApp) for parametric insurance using Ethereum, Solidity, and React. The application allows users to purchase insurance policies based on predefined weather conditions and automatically processes payouts when those conditions are met.
 
