@@ -1,4 +1,4 @@
-# Parametric Insurance dApp
+# Parametric Insurance dApp aka WetherShield DeFi
 
 This project is a decentralized application (dApp) for parametric insurance using the Flare Network.
 
