@@ -166,6 +166,17 @@ DInsuranceversion4/
 
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+contracts/
+ParametricInsurance.sol and ParamtricInsurnce.sol: Solidity smart contracts that define the business logic for parametric insurance. This includes conditions for payouts based on external parameters (e.g., weather events or other quantifiable data).
+
+scripts/
+deployParametricInsurance.ts: Script to deploy the ParametricInsurance smart contract onto the blockchain.
+generateABI.js: Generates the Application Binary Interface (ABI) for the smart contract, defining its methods and events, making it easier to interact with from front-end or scripts.
+
+
+Src/
+ParamtricInsurancABI.json: Holds the ABI for the smart contract, enabling the front-end to interact with the deployed contract’s methods.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Contributors
 - [Umair Ismati](https://github.com/Rappid-exe)
