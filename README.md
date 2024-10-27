@@ -2,7 +2,7 @@
 
 This project is a decentralized application (dApp) for parametric insurance using the Flare Network.
 
-Example of Interference 
+Demo of Working FrontEnd 
 https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/
 
 ## Prerequisites
