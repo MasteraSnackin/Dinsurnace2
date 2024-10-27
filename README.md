@@ -23,6 +23,12 @@ This project is a decentralized application (dApp) for parametric insurance usin
 - **Web3.js**: JavaScript library for interacting with the Ethereum blockchain.
 - **Truffle**: Development environment and testing framework for Ethereum.
 
+
+Image A[Smart Contract Overview](https://1drv.ms/i/s!At64SwKetw4ipacggbhQv67hWNoTqg?e=Ryvg8g)
+Image B[Wether Smart Contract intergation](https://1drv.ms/i/s!At64SwKetw4ipaci9Xf34-P7XgQg7w?e=Z2N9lP)
+Image C[JsonApiExample](https://1drv.ms/i/s!At64SwKetw4ipackAdbcGoyI60b9pQ?e=WSlQkg)
+
+
 IMAGE 1[Complied Successfully](https://1drv.ms/i/s!At64SwKetw4ipacEGLXwQlhMs2hd7g?e=Aqgn0d)
 IMAGE 2([BlockSeneseOracle)](https://1drv.ms/i/s!At64SwKetw4ipacB5gnmPbtSiS896w?e=S64Akt)
 IMAGE 3 [Compiling Contracts](https://1drv.ms/i/s!At64SwKetw4ipacGVTRdMLR6CcuWGQ?e=bRhsX5) 
@@ -40,6 +46,8 @@ Our project is a decentralized application (dApp) designed to provide parametric
 
 Image 1[High level Diagram](https://1drv.ms/i/s!At64SwKetw4ipacbTjYXqru7xlmA2Q?e=go7xYP)
 Image 2[Flow Diagram](https://1drv.ms/i/s!At64SwKetw4ipacdpUfFh1G6LYpGfQ?e=bXAZSJ)
+Image 2[Flow Diagram](https://1drv.ms/i/s!At64SwKetw4ipacdpUfFh1G6LYpGfQ?e=bXAZSJ)
+
 
 Key Features:
 Automated Insurance Payouts: The dApp automatically triggers payouts based on predefined weather conditions, such as excess rainfall or drought, providing a seamless and efficient claims process.
